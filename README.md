@@ -1,3 +1,3 @@
 # SimpleMediaPlayer
 
-A simple demo of Media Player with SwiftUI.
+A simple demo of Media Player using AVKit with SwiftUI.
